@@ -1,6 +1,7 @@
 ### 반갑습니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
-<p> 웹 개발을 공부하는 장세환 입니다🙋‍♂️ </p>
+<p> 웹 개발을 공부하는 장세환 입니다 🙋‍♂️ </p>
 <p> 사용자 경험을 중요하게 생각합니다 :) </p>
+<p> 어제의 나보다 더 나은 사람이 되는것을 모토로 살고있습니다 </p>
 <p> 🏫<b>&nbsp; Major</b> : 화공생명공학 / 융합소프트웨어 </h3>
 <p>🔥 <b>Current Activity</b></p>
 
