@@ -19,7 +19,7 @@
 </div>
 
 
-
+<!--
 <h2 align="center">Current Stacks 🚀</h2>
 <p align="center"> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-</p>
+</p>/>
 
 <br>
 <!-- <h2 align="center"> 배우고 싶은 것들 🤔 </h2>
